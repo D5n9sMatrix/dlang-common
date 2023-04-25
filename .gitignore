@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlangcommon
+dlangcommon.so
+dlangcommon.dylib
+dlangcommon.dll
+dlangcommon.a
+dlangcommon.lib
+dlangcommon-test-*
+*.exe
+*.o
+*.obj
+*.lst
