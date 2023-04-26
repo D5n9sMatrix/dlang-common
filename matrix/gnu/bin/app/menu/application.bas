@@ -1,4 +1,4 @@
-/' is a linear equation; the coefficients of x1 , x2 , and x3 are 2, −3, and 5, 
+ls/' is a linear equation; the coefficients of x1 , x2 , and x3 are 2, −3, and 5,
 and the constant term is 7. Note that each variable in a linear equation occurs 
 to the first power only. Given a linear equation a1 x1 + a2 x2 + · · · + an xn = b, 
 a sequence s1 , s2 , . . . , sn of n numbers is called a solution to the equation if
